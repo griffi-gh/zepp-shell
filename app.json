@@ -1,7 +1,7 @@
 {
   "configVersion": "v2",
   "app": {
-    "appId": 11394,
+    "appId": 56359,
     "appName": "JS-Shell",
     "appType": "app",
     "version": {
@@ -46,7 +46,7 @@
   },
   "i18n": {
     "en-US": {
-      "appName": "Empty"
+      "appName": "JS-Shell"
     }
   },
   "defaultLanguage": "en-US"

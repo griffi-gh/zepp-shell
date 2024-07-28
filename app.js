@@ -1,6 +1,6 @@
 import { MessageBuilder } from "./utils/message.js";
 
-const appId = 11394;
+const appId = 56359;
 const messageBuilder = new MessageBuilder({ appId });
 
 App({
